@@ -1,4 +1,4 @@
-# VideoGame_sales
+# VideoGame_Sales
 # I am Using PySpark, Mateplote.lib, Seaborn 
 
 
